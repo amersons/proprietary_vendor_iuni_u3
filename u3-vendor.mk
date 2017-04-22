@@ -12,9 +12,9 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-DEVICE_PACKAGE_OVERLAYS := vendor/iuni/u2/overlay
+DEVICE_PACKAGE_OVERLAYS := vendor/iuni/u3/overlay
 
 PRODUCT_PACKAGES += \
     libtime_genoff
 
-$(call inherit-product, vendor/iuni/u2/u2-vendor-blobs.mk)
+$(call inherit-product, vendor/iuni/u3/u3-vendor-blobs.mk)

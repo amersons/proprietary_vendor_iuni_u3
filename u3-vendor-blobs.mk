@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-LOCAL_PATH := vendor/iuni/u2
+LOCAL_PATH := vendor/iuni/u3
 
 # Libraries
 PRODUCT_COPY_FILES += \
